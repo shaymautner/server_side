@@ -1,0 +1,7 @@
+C:\Users\shaym\Desktop\Hibernating Rhinos Test\Hibernating Rhinos Test\obj\Debug\Hibernating Rhinos Test.csprojAssemblyReference.cache
+C:\Users\shaym\Desktop\Hibernating Rhinos Test\Hibernating Rhinos Test\obj\Debug\Hibernating Rhinos Test.csproj.CoreCompileInputs.cache
+C:\Users\shaym\Desktop\Hibernating Rhinos Test\Hibernating Rhinos Test\bin\Debug\Hibernating Rhinos Test.exe.config
+C:\Users\shaym\Desktop\Hibernating Rhinos Test\Hibernating Rhinos Test\bin\Debug\Hibernating Rhinos Test.exe
+C:\Users\shaym\Desktop\Hibernating Rhinos Test\Hibernating Rhinos Test\bin\Debug\Hibernating Rhinos Test.pdb
+C:\Users\shaym\Desktop\Hibernating Rhinos Test\Hibernating Rhinos Test\obj\Debug\Hibernating Rhinos Test.exe
+C:\Users\shaym\Desktop\Hibernating Rhinos Test\Hibernating Rhinos Test\obj\Debug\Hibernating Rhinos Test.pdb
